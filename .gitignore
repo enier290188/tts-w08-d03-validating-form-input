@@ -31,10 +31,3 @@ build/
 
 ### VS Code ###
 .vscode/
-
-### Gradle ###
-/settings.gradle
-/build.gradle
-/gradlew
-/gradlew.bat
-/gradle/
